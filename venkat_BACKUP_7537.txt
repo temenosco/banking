@@ -1,7 +1,10 @@
 ven
+<<<<<<< HEAD
 anand
 nello
+=======
 arun
+>>>>>>> venkat
 nellore
 venkat
 podalakur
